@@ -1,4 +1,4 @@
-# CompE-Sem-Proj
+# CompE-271-Sem-Proj-Spring-2023
 Personal, original semester project 2023
 I hold all rights to this project's code and game ideas as of January 2023. Any use of the code within the licensing terms must include the source code in full and credit its author.
 
